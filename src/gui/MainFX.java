@@ -10,7 +10,7 @@ public class MainFX extends Application {
 	static Stage mainStage;
 	
 	//arxikopoihsh skhnwn
-	static Scene mainScene, cityScene, storeScene, clientScene, vehicleScene, vehicleRentalScene;
+	static Scene mainScene, cityScene, storeScene, clientScene, vehicleSc`ene, vehicleRentalScene;
 	
 	
 	
